@@ -1,5 +1,5 @@
 # Power_BI_Maven_Analytics
-AdventureWorks Sales Dashboard
+This is an exciting project I had prepared to push my limits in Power BI. 
 
 ## Project Overview
 This project features an interactive Power BI dashboard analyzing sales data for AdventureWorks, a global retail company. The dashboard provides insights into revenue, profit, orders, returns, customer demographics, and product performance. It demonstrates my ability to create dynamic visualizations and extract actionable insights to support business decisions.
