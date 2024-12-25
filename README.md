@@ -14,7 +14,7 @@ Monthly trends with year-over-year growth rates and profit margin visualization.
 Order Performance:
 
 Total orders: 25.2K
-Monthly orders tracking with a comparison to targets.
+Monthly order tracking with a comparison to targets.
 Breakdown of orders by category (Accessories, Bikes, Clothing).
 Returns Analysis:
 
@@ -23,20 +23,20 @@ Identification of the most returned product types, highlighting areas for qualit
 Top Products:
 
 Top 10 products by orders, revenue, and return rate.
-Analysis of best-selling products like the "Water Bottle - 30 oz." and its profitability.
+Analyse best-selling products like the "Water Bottle - 30 oz." and its profitability.
 Customer Insights:
 
 17.4K unique customers with an average revenue per customer of $1,431.
-Orders segmented by customer income level and occupation.
-Highlight of the top customers driving revenue.
+Orders are segmented by customer income level and occupation.
+Highlight the top customers driving revenue.
 Geographical Analysis:
 
-Revenue and orders distributed across major regions (e.g., North America, Europe, Pacific).
+Revenue and orders are distributed across major regions (e.g., North America, Europe, Pacific).
 Heatmaps showing regional performance.
 Influencer Analysis:
 
 Factors influencing key metrics like homeownership and average retail price.
-Key drivers for customer behavior, including income levels, education, and marital status.
+Key customer behaviour drivers include income levels, education, and marital status.
 Skills and Tools Demonstrated
 Data Analysis:
 
@@ -56,3 +56,13 @@ Enabled cross-regional comparisons and customer segmentation.
 How to structure a business intelligence report for effective decision-making.
 Techniques to highlight performance gaps and opportunities using data storytelling.
 Strategies for integrating key influencers to enhance product pricing and customer engagement.
+
+## Sample Dashboards
+
+[<img src="./Dash/1.png" width="400"/>]&nbsp;
+
+[<img src="./Dash/2.png" width="400"/>]&nbsp;
+
+[<img src="./Dash/3.png" width="400"/>]&nbsp;
+
+[<img src="./Dash/4.png" width="400"/>]&nbsp;
